@@ -1,0 +1,16 @@
+﻿빌드 시작: 2016-08-12 오후 2:09:17
+     1>2 노드의 "O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\se.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt se.cpp
+         se.cpp
+     1>o:\대학\자료구조(c)\search engine project(내가짠거,체이닝해시)\se\se.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+     1>o:\대학\자료구조(c)\search engine project(내가짠거,체이닝해시)\se\se.cpp(168): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+       Link:
+         E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\Debug\se.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\Debug\se.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\Debug\se.lib" /MACHINE:X86 Debug\se.obj
+         LINK : O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\Debug\se.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+         se.vcxproj -> O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\Debug\se.exe
+     1>"O:\대학\자료구조(C)\search engine project(내가짠거,체이닝해시)\se\se.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:21.27
